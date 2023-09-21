@@ -3,7 +3,8 @@
 
   <h3>Formulário</h3> 
   <p>
-    Formulário desenvolvido com o suporte do canal da Gabriela Pinheiro.
+    Formulário desenvolvido para WebSite
+    <br>https://11-website-formulario.vercel.app/</br>
   </p>
 <h2>Layout</h2>
   <p>
